@@ -1,0 +1,3 @@
+# Integrating_PHP_with_Databases
+
+Building a PHP-driven page is the first step in mastering PHP. The true power of PHP shines when you connect it to a data source like an API or a Database. To introduce myself to databases, i used an example project -- a Personal Media Library application. I refactored this project by replacing an associative array with a database to provide a more robust and scalable tool to store the data in the media library. In the process, I learned how to use PDO -- a PHP extension to communicate with a database. I also learned about relational databases including how to search for data across multiple tables, as well as how to add common web site features like search forms and pagination.

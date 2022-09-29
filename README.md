@@ -1,2 +1,3 @@
-# teamtreehouse.com-php
-teamtreehouse.com PHP projects
+# teamtreehouse.com PHP
+
+teamtreehouse.com PHP practice projects collection
